@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RaySwartz
-- 👀 I’m interested in AR, augmented reality
-- 🌱 I’m currently learning ARKit
+- 👋 Hi, I’m @RaySwartz.
+- 👀 I’m interested in AR, augmented reality, for tourism visualization.
+- 🌱 I’m currently learning ARKit.
 - 📫 Reach me at rayswartz@alum.mit.edu
 
 <!---
